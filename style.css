@@ -91,6 +91,7 @@ h1 {
 .card__info {
   font-size: 0.9rem;
   font-weight: var(--fw-black);
+  color: var(--color-desaturated-blue);
   text-align: center;
   padding: 0 2rem 0 2rem;
   line-height: 1.55rem;
